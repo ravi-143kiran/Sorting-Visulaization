@@ -21,4 +21,4 @@ Features:
 (2) 3 Controls for visualizations 2.1) Speed of visualization 2.2) Data size 2.3) Generation of new data (Randomly generate new data).
 To see deployment click the link below.
 <br>
-[https://rapoluprashanth.github.io/Sorting-Visualizer/](https://rapoluprashanth.github.io/Sorting-Visualizer/)
+https://sorting-visulaization.vercel.app/
